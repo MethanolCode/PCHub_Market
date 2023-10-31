@@ -1,0 +1,15 @@
+export const ADMIN_ROUTE = '/admin'
+export const LOGIN_ROUTE = '/login'
+export const REGISTRATION_ROUTE = '/registration'
+export const SHOP_ROUTE = '/'
+export const BASKET_ROUTE = '/basket'
+export const DEVICE_ROUTE = '/device'
+export const ABOUT_ROUTE = '/about'
+export const PCFAQ_ROUTE = '/pcfaq'
+export const AFISH_ROUTE = '/afish'
+export const ORDERS_ROUTE = '/order'
+export const YOUR_SERVICE_ID='service_obk0lvq'
+export const YOUR_TEMPLATE_ID='template_d84o94y'
+export const YOUR_USER_ID='IZ7oIplBvBhDSaHFN'
+
+ 

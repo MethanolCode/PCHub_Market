@@ -1,0 +1,10 @@
+.learning-options-container{display: flex; align-items: flex-start; flex-wrap: wrap;}
+.learning-option-button{
+    padding: 3px;
+    border-radius: 35px;
+    border: 2px solid green;
+    background: #f1fff1;
+    margin: 1px;
+    transition: 350ms ease;
+}
+.learning-option-button:hover{transform: scale(1.05); border-radius: 10px;}
